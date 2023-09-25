@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sadziooo
 - 👀 I’m interested in Electronics
-- 🌱 I’m currently learning AtTiny3217
+- 🌱 I’m currently programming AVRs and other MCUs
 
 Love ya all 💜
